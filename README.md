@@ -30,4 +30,4 @@ GUVI Day 1 Task
             - Using the JavaScript Keyword new
             - Using the Object.create method
 
-    Find trhe Blog Link :link: => https://medium.com/@abiramirajagopal99objects-and-its-internal-representation-in-javascript-55b3508d8426
+    Find trhe Blog Link :link: => https://medium.com/@abiramirajagopal99/objects-and-its-internal-representation-in-javascript-55b3508d8426
